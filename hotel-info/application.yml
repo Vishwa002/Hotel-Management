@@ -3,7 +3,7 @@ Spring:
   data:
     mongodb:
       host: localhost
-      database: book
+      database: hotel
       port: 27017
       
       
