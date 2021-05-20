@@ -1,1 +1,12 @@
 #todo hotel-review-service
+Spring:
+  data:
+    mongodb:
+      host: localhost
+      database: book
+      port: 27017
+      
+      
+logging:
+  level:
+    '[org.springframework.data.mongodb]': debug 
