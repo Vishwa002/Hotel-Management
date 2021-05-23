@@ -26,14 +26,4 @@ management:
         include:
         - "*"
         
- info:
-   build:
-      artifactId:'@project.artifact@'
-      groupId:'@project.groupId@'
-      version:'@project.version@'
-   java:
-      version:'@java.version@'
-   author:
-      name: 'Vishwa'
-      version: '2.0'
-                 
+ 
